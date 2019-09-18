@@ -40,7 +40,7 @@ ext {
     supportWearable = "com.google.android.support:wearable:2.3.0"
     providedWear = "com.google.android.wearable:wearable:2.3.0"
 
-    archLifecycle = '2.0.0'
+    archLifecycle = '2.1.0'
     archLifecycleRuntime = "androidx.lifecycle:lifecycle-runtime:$archLifecycle"
     archLifecycleExtentions = "androidx.lifecycle:lifecycle-extensions:$archLifecycle"
     archLifecycleCompiler = "androidx.lifecycle:lifecycle-compiler:$archLifecycle"
