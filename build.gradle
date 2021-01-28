@@ -63,7 +63,7 @@ ext {
     playServicesOssLicenses = 'com.google.android.gms:play-services-oss-licenses:16.0.1'
 
     // https://firebase.google.com/support/release-notes/android
-    firebaseCore = 'com.google.firebase:firebase-core:16.0.4'
+    firebaseCore = 'com.google.firebase:firebase-core:18.0.2'
     firebaseAppindexing = 'com.google.firebase:firebase-appindexing:16.0.1'
     firebaseAppinvite = 'com.google.firebase:firebase-invites:16.0.4'
     firebaseConfig = 'com.google.firebase:firebase-config:16.0.1'
