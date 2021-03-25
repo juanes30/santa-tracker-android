@@ -24,7 +24,7 @@ ext {
 
     tools = '28.0.3'
 
-    supportAnnotations = "androidx.annotation:annotation:1.0.1"
+    supportAnnotations = "androidx.annotation:annotation:1.2.0"
     appCompat = "androidx.appcompat:appcompat:1.0.2"
     design = "com.google.android.material:material:1.0.0"
     mediaRouter = "androidx.mediarouter:mediarouter:1.0.0"
